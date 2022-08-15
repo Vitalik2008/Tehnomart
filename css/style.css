@@ -288,7 +288,7 @@ div.logo-header img {
     height: 16px;
     width: 14px;
     position: absolute;
-    background-image: url("/img/dicor/icon-bookmark.svg");
+    background-image: url("../img/dicor/icon-bookmark.svg");
     background-repeat: no-repeat;
     background-position:  0 0;
     left: 22px;
@@ -300,7 +300,7 @@ div.logo-header img {
     height: 15px;
     width: 15px;
     position: absolute;
-    background-image: url("/img/dicor/icon-cart.svg");
+    background-image: url("../img/dicor/icon-cart.svg");
     background-repeat: no-repeat;
     background-position:  0 0;
     left: 27px;
@@ -634,7 +634,7 @@ div.logo-header img {
 
 .subdirectory-item:nth-child(1)::after {
     content: '';
-    background-image: url("/img/svg/dye.svg");
+    background-image: url("../img/svg/dye.svg");
     background-position: 0 0;
     background-repeat: no-repeat;
     width: 44px;
@@ -652,7 +652,7 @@ div.logo-header img {
 
 .subdirectory-item:nth-child(2)::after {
     content: '';
-    background-image: url("/img/svg/drill.svg");
+    background-image: url("../img/svg/drill.svg");
     background-position: 0 0;
     background-repeat: no-repeat;
     width: 75px;
@@ -670,7 +670,7 @@ div.logo-header img {
 
 .subdirectory-item:nth-child(3)::after {
     content: '';
-    background-image: url("/img/svg/tractor.svg");
+    background-image: url("../img/svg/tractor.svg");
     background-position: 0 0;
     background-repeat: no-repeat;
     width: 78px;
@@ -696,7 +696,7 @@ div.logo-header img {
 
 .subdirectory-item:nth-child(5)::after {
     content: '';
-    background-image: url("/img/svg/shopping_cart.svg");
+    background-image: url("../img/svg/shopping_cart.svg");
     background-position: 0 0;
     background-repeat: no-repeat;
     width: 59px;
@@ -714,7 +714,7 @@ div.logo-header img {
 
 .subdirectory-item:nth-child(6)::after {
     content: '';
-    background-image: url("/img/svg/car.svg");
+    background-image: url("../img/svg/car.svg");
     background-position: 0 0;
     background-repeat: no-repeat;
     width: 78px;
@@ -845,7 +845,7 @@ div.logo-header img {
     width: 620px;
     height: 266px;
     background-color: #6d6864;
-    background-image: url("/img/pictureincss/perforator.jpg");
+    background-image: url("../img/pictureincss/perforator.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: contain;
@@ -1117,7 +1117,7 @@ div.logo-header img {
     height: 15px;
     width: 15px;
     position: absolute;
-    background-image: url("/img/dicor/icon-cart.svg");
+    background-image: url("../img/dicor/icon-cart.svg");
     background-repeat: no-repeat;
     background-position:  0 0;
     left: 30px;
@@ -1176,7 +1176,7 @@ s {
     background-color: transparent;
     border: none;
     padding: 0px;
-    background-image: url("/img/dicor/Shape.png");
+    background-image: url("../img/dicor/Shape.png");
     margin-right: -12px;
     padding-right: 9px;
 }
@@ -2208,7 +2208,7 @@ li:not(:first-of-type) > .social-button {
     position: absolute;
     width: 8px;
     height: 12px;
-    background-image: url("/img/dicor/arrow.svg");
+    background-image: url("../img/dicor/arrow.svg");
     background-repeat: no-repeat;
     background-position: 0 0;
     left: 0px;
