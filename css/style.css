@@ -1350,7 +1350,7 @@ s {
 .delivery-p + div::after {
     content: '';
     position: absolute;
-    background-image: url('/img/dicor/car.png');
+    background-image: url('../img/dicor/car.png');
     width: 468px;
     height: 261px;
     left: -123px;
@@ -1360,7 +1360,7 @@ s {
 .garantia-p + div::after{
     content: '';
     position: absolute;
-    background-image: url('/img/dicor/Medal100.png');
+    background-image: url('../img/dicor/Medal100.png');
     width: 389px;
     height: 283px;
     left: -73px;
@@ -1371,7 +1371,7 @@ s {
 .kredits-p + div::after{
     content: '';
     position: absolute;
-    background-image: url('/img/dicor/Credits.png');
+    background-image: url('../img/dicor/Credits.png');
     width: 465px;
     height: 285px;
     left: -113px;
@@ -2160,7 +2160,7 @@ li:not(:first-of-type) > .social-button {
 
 .closed-map::after {
     content: '';
-    background-image: url('/img/dicor/icon-close.svg');
+    background-image: url('../img/dicor/icon-close.svg');
     background-repeat: no-repeat;
     background-position: 0 0;
     width: 21px;
@@ -2926,7 +2926,7 @@ h3{
 
 .closed-popupgoods::after {
     content: '';
-    background-image: url('/img/dicor/icon-close.svg');
+    background-image: url('../img/dicor/icon-close.svg');
     background-repeat: no-repeat;
     background-position: 0 0;
     width: 21px;
