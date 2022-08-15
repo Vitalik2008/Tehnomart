@@ -845,7 +845,17 @@ div.logo-header img {
     width: 620px;
     height: 266px;
     background-color: #6d6864;
+}
+
+.subdirectory-slider-first {
     background-image: url("../img/pictureincss/perforator.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.subdirectory-slider-second {
+    background-image: url("../img/pictureincss/screwdriver.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: contain;
