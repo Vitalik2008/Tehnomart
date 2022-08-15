@@ -1983,7 +1983,7 @@ li:not(:first-of-type) > .social-button {
 
 .closed::after {
     content: '';
-    background-image: url('/img/dicor/icon-close.svg');
+    background-image: url('../img/dicor/icon-close.svg');
     background-repeat: no-repeat;
     background-position: 0 0;
     width: 21px;
@@ -2692,7 +2692,7 @@ h3{
     /* top: 0; */
     width: 23px;
     height: 23px;
-    background-image: url('/img/dicor/checkbox-off.svg');
+    background-image: url('../img/dicor/checkbox-off.svg');
     background-repeat: no-repeat;
     background-position: 0 0;
 }
@@ -2700,7 +2700,7 @@ h3{
 .filter-input-checkbox:checked + label::before {
     content: "";
     position: absolute;
-    background-image: url('/img/dicor/checkbox-on.svg');
+    background-image: url('../img/dicor/checkbox-on.svg');
     background-repeat: no-repeat;
     background-position: 0 0;
     width: 27px;
