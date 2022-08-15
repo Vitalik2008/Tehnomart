@@ -1321,20 +1321,29 @@ s {
     max-width: 300px;
     display: block;
     padding-bottom: 30px;
+}
 
-    /* Guarantee */
+.kredits-p {
+    line-height: 25px;
+    width: max-content;
+    margin: 0;
+    max-width: 300px;
+    display: block;
+    padding-bottom: 30px;
+}
 
-    /* line-height: 25px;
+.garantia-p{
+    line-height: 25px;
     width: max-content;
     margin: 0;
     max-width: 335px;
     display: block;
-    padding-bottom: 25px; */
+    padding-bottom: 25px;
 
 
 }
 
-.delivery-p + div {
+.opredelenie div:last-child {
     position: relative;
 }
 
@@ -1346,26 +1355,27 @@ s {
     height: 261px;
     left: -123px;
     bottom: -94px;
+}
 
-    /* Guarantee */
-
-    /* content: '';
+.garantia-p + div::after{
+    content: '';
     position: absolute;
     background-image: url('/img/dicor/Medal100.png');
     width: 389px;
     height: 283px;
     left: -73px;
-    bottom: -93px; */
+    bottom: -93px;
+}
 
-    /* Credits*/
-/* 
+
+.kredits-p + div::after{
     content: '';
     position: absolute;
     background-image: url('/img/dicor/Credits.png');
     width: 465px;
     height: 285px;
     left: -113px;
-    bottom: -151px; */
+    bottom: -151px;
 
 }
 
