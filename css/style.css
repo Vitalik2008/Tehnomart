@@ -411,7 +411,7 @@ div.logo-header img {
     content: '';
     width: 19px;
     height: 19px;
-    background-image: url('/img/dicor/Shape.svg');
+    background-image: url('../img/dicor/Shape.svg');
     background-repeat: no-repeat;
     background-position: 0 0;
     position: absolute;
