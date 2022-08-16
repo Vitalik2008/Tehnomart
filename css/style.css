@@ -2709,11 +2709,12 @@ h3{
     /* top: 0; */
 }
 
-.filter-input-checkbox:focus + label {
+.filter-input-checkbox:focus-visible + label {
     outline: 1px solid black;
-    /* outline-offset: -1px; */
     border-radius: 5px;
 }
+
+
 
 
 
@@ -2774,7 +2775,7 @@ h3{
     border-radius: 50%;
 }
 
-.filter-input-radio:focus + label {
+.filter-input-radio:focus-visible + label {
     outline: 1px solid black;
     border-radius: 3px;
 }
