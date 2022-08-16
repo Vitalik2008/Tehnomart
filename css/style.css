@@ -2965,7 +2965,7 @@ h3{
 
 .popup-great::before {
     content: '';
-    background-image: url('/img/dicor/icon-mark.svg');
+    background-image: url('../img/dicor/icon-mark.svg');
     background-repeat: no-repeat;
     background-position: 0 0;
     width: 66px;
