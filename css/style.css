@@ -1271,8 +1271,10 @@ s {
     font-weight: 400;
     background-color: #F1F5F7;
     margin:0;
-    padding-bottom: 98px;
+    max-height: 522px;
+    min-height: 522px;
 }
+
 
 .catalog .services {
     padding-bottom: 70px;
@@ -1374,7 +1376,7 @@ s {
     width: 389px;
     height: 283px;
     left: -73px;
-    bottom: -93px;
+    bottom: -74px;
 }
 
 
@@ -1385,7 +1387,7 @@ s {
     width: 465px;
     height: 285px;
     left: -113px;
-    bottom: -151px;
+    bottom: -143px;
 
 }
 
